@@ -1,0 +1,9 @@
+What is the name of the professional basketball team in Denver?, Denver Nuggets, Sports
+What is the name of the professional football team in Denver?, Denver Broncos, Sports
+What does MLB stand for?, Major League Baseball, Sports
+What holiday is on December 25th?, Christmas, Holidays
+What holiday is it when there is a big turkey dinner?, Thanksgiving, Holidays
+What does NYE stand for?, New Years Eve, Holidays
+How many grades are in the standard US high school?, Four, Education
+How many grades are in the standard US middle school?, Three, Education
+What type of degree do you receive after graduating from a 4-year college?, Bachelor's Degree, Education
