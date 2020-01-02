@@ -1,3 +1,5 @@
+require 'colorize'
+
 class Turn
 
   attr_reader :guess, :card
@@ -17,9 +19,9 @@ class Turn
 
   def feedback
     if correct?
-      "Correct!"
+      "Correct!".green
     else
-      "Incorrect."
+      "Incorrect.".red
     end
   end
 end

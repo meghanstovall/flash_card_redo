@@ -40,4 +40,14 @@ class Round
 
     (number_correct_by_category(category) / num_in_cat.length.to_f) * 100
   end
+
+  def total_num_cards
+    if @completed_cards.empty?
+      @deck.cards.length
+    elsif @deck.cards.empty?
+      @completed_cards.length
+    else
+      @deck.cards.length + @completed_cards.length
+    end
+  end
 end
